@@ -1,2 +1,1 @@
-# PRODIGY-DS-TASK1
-Visualized the Titanic dataset in Power BI, creating bar charts and histograms to analyze gender and age distributions.
+Utilized Power BI to analyze the Titanic dataset on GitHub, creating insightful visualizations such as bar charts and histograms to explore gender and age distributions. This project demonstrates proficiency in data analytics and visualization techniques
